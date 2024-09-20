@@ -10,6 +10,6 @@ attack: attacked measurements <br/>
 train_and_test: raw data of training and testing set <br/>
 noise_0.02: the standard deviation of the measurement noise is 2% <br/>
 ang_0.2: the strength of attacks is set as 0.2 <br/>
-no_2: the number of attacked buses is set as 2 <br/>https://github.com/xjtuerr/xjtuerr.github.io/blob/main/README.md
+no_2: the number of attacked buses is set as 2 <br/>
 
 Notably, the training set and testing set are selected from _xxx_train_and_test_xxx.npy_ by the imbalance and labeling ratios.
